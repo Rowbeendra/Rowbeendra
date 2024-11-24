@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rowbeendra 
+- 👀 I’m interested in technology, art, and problem-solving
+- 🌱 I’m currently learning web development and data science
+- 💞️ I’m looking to collaborate on open-source projects and creative coding challenges
+- 📫 How to reach me via email at mlaptop9816@gmail.com
+- ⚡ Fun fact: I once built a website inspired by my favorite book in just one night!
